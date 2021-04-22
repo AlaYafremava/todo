@@ -1,2 +1,2 @@
 # todo
-Simple todo. React, Bootstrap,bRedux-thunk
+Simple todo. React, Bootstrap, Redux-thunk
